@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zibell.theo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zibell.theo\\.nuget\\packages"
+    ]
+  }
+}

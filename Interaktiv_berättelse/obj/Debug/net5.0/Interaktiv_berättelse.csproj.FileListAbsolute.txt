@@ -1,0 +1,16 @@
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\bin\Debug\net5.0\Interaktiv_berättelse.exe
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\bin\Debug\net5.0\Interaktiv_berättelse.deps.json
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\bin\Debug\net5.0\Interaktiv_berättelse.runtimeconfig.json
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\bin\Debug\net5.0\Interaktiv_berättelse.runtimeconfig.dev.json
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\bin\Debug\net5.0\Interaktiv_berättelse.dll
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\bin\Debug\net5.0\ref\Interaktiv_berättelse.dll
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\bin\Debug\net5.0\Interaktiv_berättelse.pdb
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net5.0\Interaktiv_berättelse.csproj.AssemblyReference.cache
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net5.0\Interaktiv_berättelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net5.0\Interaktiv_berättelse.AssemblyInfoInputs.cache
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net5.0\Interaktiv_berättelse.AssemblyInfo.cs
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net5.0\Interaktiv_berättelse.csproj.CoreCompileInputs.cache
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net5.0\Interaktiv_berättelse.dll
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net5.0\ref\Interaktiv_berättelse.dll
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net5.0\Interaktiv_berättelse.pdb
+C:\Users\zibell.theo\Desktop\Programering\lurktext\null\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net5.0\Interaktiv_berättelse.genruntimeconfig.cache
